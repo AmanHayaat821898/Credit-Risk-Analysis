@@ -1,4 +1,4 @@
-# Loan Default Prediction
+# RiskRadar: Forecasting Loan Defaults
 
 ## Overview
 This project aims to analyze loan data to understand the impact of various features on credit risk and to predict the risk associated with loans. The ultimate goal is to assist banks and investors in making informed decisions by assessing the likelihood of a borrower defaulting on a loan.
