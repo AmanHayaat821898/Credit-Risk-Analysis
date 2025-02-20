@@ -26,7 +26,7 @@ The dataset used in this project contains 75 columns and 466,285 rows, including
 The Decision Tree model was selected based on its superior performance after hyperparameter tuning.
 
 ## Key Findings
-- Important features affecting loan default include annual income, loan amount, debt-to-income ratio, revolving utilization, employment length, and FICO scores.
+- Important features affecting loan default include annualincome, loan amount, debt-to-income ratio, revolving utilization, employment length, and FICO scores.
 - The Decision Tree model, after tuning, provides a reliable tool for predicting loan default risk.
 
 ## Practical Implications
